@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.container{
+	background-color: #f5f5f5
+}
+
+.box1,.box2{
+	padding:20px;
+	margin: 15px;
+	background-color: red
+}
+.box1{
+	display: flex;
+	justify-content: space-between
+}
+.box2{
+	display: flex;
+}
+#name1{
+	margin-top:10px
+	
+}
+
+
+
+
+
+
+
+
+	
